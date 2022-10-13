@@ -17,9 +17,9 @@ This package help you to convert recursive function into the while-loop codes. s
 
 ## How to use
 
-### Math concepts
+### Math concepts [高中数学中的函数"不动点"](https://zhuanlan.zhihu.com/p/114491230)
 
-<img src="https://raw.githubusercontent.com/anyone-developer/anyone-dart-tailrec/main/misc/concept.png" alt="tailrec">
+<img src="https://raw.githubusercontent.com/anyone-developer/aynone-dart-tailrec/main/misc/concept.png" alt="tailrec">
 
 ### Calculate fixed point for cos(x)
 
@@ -61,8 +61,8 @@ void main() {
 
 PalPal: https://paypal.me/nzhang4
 
-<img src="https://raw.githubusercontent.com/anyone-developer/anyone-dart-mitt/main/misc/alipay.jpeg" width="500">
+<img src="https://raw.githubusercontent.com/anyone-developer/anyone-dart-tailrec/main/misc/alipay.jpeg" width="500">
 
-<img src="https://raw.githubusercontent.com/anyone-developer/anyone-dart-mitt/main/misc/wechat_pay.png" width="500">
+<img src="https://raw.githubusercontent.com/anyone-developer/anyone-dart-tailrec/main/misc/wechat_pay.png" width="500">
 
 
