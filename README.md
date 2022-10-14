@@ -5,7 +5,7 @@
   <img src="https://badgen.net/pub/popularity/tailrec" alt="popularity">
   <img src="https://badgen.net/pub/sdk-version/tailrec" alt="sdk">
   <img src="https://badgen.net/pub/flutter-platform/tailrec" alt="platform">
-  <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
+  <a href="https://github.com/Solido/awesome-flutter">
     <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
   </a>
 </p>
