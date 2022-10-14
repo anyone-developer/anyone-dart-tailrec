@@ -1,6 +1,6 @@
 name: tailrec
 description: This package help you to convert recursive function into the while-loop codes. so that program won't meet out of memory that caused by stack overflow.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/anyone-developer
 
 environment:
